@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hello there!
+title:  "A Hello to the world"
+categories: Hello World
 ---
 
 Thanks for visiting my page.
