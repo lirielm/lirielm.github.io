@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an all around geek, who happens to love women and is not ashamed of it. Girl power!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Thanks for visiting my page.
+
+I promise that I will post something soon. I am busy with seting up this whole thing, and learning on the go. I have to admit, it is fun. :D 
+
+See ya later.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Twitter](https://twitter.com/1_procrastinate)
