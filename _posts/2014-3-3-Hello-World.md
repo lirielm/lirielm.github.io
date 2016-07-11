@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Hello to the world"
+date: 11-07-2016 20:04.00
 categories: Hello World
 ---
 
