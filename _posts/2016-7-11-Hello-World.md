@@ -3,9 +3,7 @@ layoyt: post
 title: Hello World
 ---
 
-## Hello World
-
-Thanks for reading!
+## Thanks for reading!
 
 This is a test of my first blog post. I am learning on the go, and this is quite fun to me.
 I am not a total stranger to publishing posts via Github and I am quite used to using
